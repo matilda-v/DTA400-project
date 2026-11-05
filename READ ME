@@ -1,0 +1,4 @@
+This is a simulation in C++ made by Anna Vahlenberg with the help of AI (ChatGPT).
+
+You can run it by writing: ./ns3 run "scratch/queue-study --queueSize=XX"
+XX should be replaced with your wanted queue size. If you don't specify a queue size then it will run the default, which is 50.
